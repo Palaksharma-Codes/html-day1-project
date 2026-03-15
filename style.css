@@ -21,3 +21,48 @@ div {
     padding: 10px;
     margin-top: 10px;
 }
+
+/* update day2 css */
+#main-header {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.navbar a {
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+.about {
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.Skills {
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+/* update day 3 css */
+/*navigation will look clean and horizontal*/
+.navbar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navbar a {
+text-decoration: none;
+font-weight: bold;
+color: steelblue;
+}
+
+.navbar a:hover {
+    color: blue;
+}
