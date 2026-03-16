@@ -66,3 +66,24 @@ color: steelblue;
 .navbar a:hover {
     color: blue;
 }
+
+/* update day 4 css 9th day for contact page */
+form {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+input , textarea {
+    width: 300px;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
