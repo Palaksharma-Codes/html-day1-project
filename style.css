@@ -87,3 +87,30 @@ button {
     color: white;
     border: none;
 }
+
+/* update day 5 CSS for contact.html file 10/14 */
+input , textarea {
+    width: 100%;
+    max-width: 400;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+button.hover {
+    background-color: darkgreen;
+}
+
+form {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
