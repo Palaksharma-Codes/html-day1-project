@@ -114,3 +114,29 @@ form {
     margin-top: 20px;
     border-radius: 5px;
 }
+
+/* update day 6 css add container in home.html */
+.container {
+    width: 80%;
+    margin:auto;
+}
+/*Improve section*/
+section{
+    background-color: white;
+    padding: 20ox;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+/*Improve navigation bar*/
+.navbar {
+    margin-bottom: 20px;
+}
+/*Add shadow effect(Makes it look professional)*/
+section{
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
