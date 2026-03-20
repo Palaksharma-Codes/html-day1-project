@@ -140,3 +140,28 @@ header {
 section{
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+
+/* update day 7 css style the image in home.html*/
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+/* Improve section Layout*/
+section {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+/*Improve text alignment*/
+h1,h2 {
+    text-align: center;
+}
+/*Add Hover Effect*/
+.profile-img:hover {
+    transform: scale(1,1);
+}
