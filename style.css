@@ -165,3 +165,17 @@ h1,h2 {
 .profile-img:hover {
     transform: scale(1,1);
 }
+
+/* update day 8 css Improve buttons*/
+button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius:  5px;
+    cursor: pointer;
+}
+/*Add hover effect to links*/
+a:hover {
+    text-decoration: underline
+}
